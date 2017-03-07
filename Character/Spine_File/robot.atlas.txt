@@ -1,0 +1,146 @@
+
+robot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/arm_DN_L
+  rotate: true
+  xy: 207, 868
+  size: 147, 240
+  orig: 147, 240
+  offset: 0, 0
+  index: -1
+images/arm_DN_R
+  rotate: true
+  xy: 678, 882
+  size: 133, 172
+  orig: 133, 172
+  offset: 0, 0
+  index: -1
+images/arm_DN_R_BC
+  rotate: false
+  xy: 163, 373
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+images/arm_UP_L
+  rotate: false
+  xy: 465, 789
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+images/arm_UP_R
+  rotate: false
+  xy: 369, 659
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images/chest_BC
+  rotate: false
+  xy: 2, 818
+  size: 203, 197
+  orig: 203, 197
+  offset: 0, 0
+  index: -1
+images/chest_FR
+  rotate: true
+  xy: 2, 158
+  size: 202, 177
+  orig: 202, 177
+  offset: 0, 0
+  index: -1
+images/head_in
+  rotate: false
+  xy: 207, 774
+  size: 163, 92
+  orig: 163, 92
+  offset: 0, 0
+  index: -1
+images/head_up
+  rotate: true
+  xy: 2, 362
+  size: 213, 159
+  orig: 213, 159
+  offset: 0, 0
+  index: -1
+images/head_up_BC
+  rotate: false
+  xy: 852, 889
+  size: 156, 126
+  orig: 156, 126
+  offset: 0, 0
+  index: -1
+images/leg_DN_L
+  rotate: false
+  xy: 2, 577
+  size: 156, 239
+  orig: 156, 239
+  offset: 0, 0
+  index: -1
+images/leg_DN_R
+  rotate: true
+  xy: 449, 878
+  size: 137, 227
+  orig: 137, 227
+  offset: 0, 0
+  index: -1
+images/leg_DN_R_BC
+  rotate: false
+  xy: 538, 827
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+images/leg_UP_L
+  rotate: false
+  xy: 163, 485
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1
+images/leg_UP_R
+  rotate: false
+  xy: 372, 744
+  size: 91, 122
+  orig: 91, 122
+  offset: 0, 0
+  index: -1
+images/pelvis_BC
+  rotate: false
+  xy: 259, 639
+  size: 108, 133
+  orig: 108, 133
+  offset: 0, 0
+  index: -1
+images/pelvis_FR
+  rotate: false
+  xy: 270, 511
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+images/shoulder_L
+  rotate: false
+  xy: 2, 2
+  size: 138, 154
+  orig: 138, 154
+  offset: 0, 0
+  index: -1
+images/shoulder_R
+  rotate: false
+  xy: 160, 617
+  size: 97, 155
+  orig: 97, 155
+  offset: 0, 0
+  index: -1
+images/spine
+  rotate: false
+  xy: 181, 236
+  size: 74, 135
+  orig: 74, 135
+  offset: 0, 0
+  index: -1
